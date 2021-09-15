@@ -1,2 +1,6 @@
 this is for testing file1
+<<<<<<< HEAD
 rebase 
+=======
+testing rebase command
+>>>>>>> e76de08 (updated)
